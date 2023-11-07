@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "exampleessential",
+    "name": "ExampleEssential",
+    "description": "xd",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Cephetir"
+    ],
+    "credits": "Cephetir",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

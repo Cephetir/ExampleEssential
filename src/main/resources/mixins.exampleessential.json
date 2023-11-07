@@ -1,0 +1,11 @@
+{
+  "package": "me.cephetir.exampleessential.mixins",
+  "refmap": "mixins.exampleessential.refmap.json",
+  "minVersion": "0.7.11",
+  "compatibilityLevel": "JAVA_8",
+  "verbose": true,
+  "mixins": [
+  ],
+  "client": [
+  ]
+}
